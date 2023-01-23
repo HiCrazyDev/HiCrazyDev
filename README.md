@@ -14,7 +14,7 @@
     </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;9+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=70&pause=100&center=true&vCenter=true&width=1000&height=250&lines=Monster+Developer;Crazy+Developer"></img>
 </p>
 
 ## 🧑 About me:
