@@ -73,7 +73,6 @@
 
   <summary><b>⚡ Github Stats</b></summary>
   <br/>
-  ![Snake animation](https://github.com/HiCrazyDev/HiCrazyDev/blob/output/github-contribution-grid-snake.svg)
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiCrazyDev&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="DevMaster37" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HiCrazyDev&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="HiCrazyDev" align = "center"/></p>
 
@@ -81,14 +80,6 @@
  <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HiCrazyDev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="HiCrazyDev" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<br/>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HiCrazyDev&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
-<details>    -->
- <summary><b>🏆 Github Achievements</b></summary>
- <br/>
-<p align="center"> <a href="https://github.com/HiCrazyDev"><img src="https://github-profile-trophy.vercel.app/?username=HiCrazyDev&margin-w=5&theme=radical" alt="HiCrazyDev" /></a> </p>
 
 <br>
 
